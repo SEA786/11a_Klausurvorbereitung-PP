@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open themen.html",
+            "file": "c:\\Users\\SAHM157\\Desktop\\WB_OOP\\11a_Klausurvorbereitung-PP\\themen.html"
+        }
+    ]
+}
